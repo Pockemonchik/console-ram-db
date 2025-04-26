@@ -95,7 +95,7 @@ COMMIT - фиксация изменений текущей (самой внут
 
  - **Склонируйте репозиторий**:
    ```bash
-   git clone "project_url"
+   git clone https://github.com/Pockemonchik/console-ram-db.git
    ```
 
 
